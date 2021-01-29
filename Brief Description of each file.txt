@@ -1,0 +1,25 @@
+Here is something I through together for you guys. I hope you enjoy! 
+
+Requires
+OpenCV
+Numpy
+
+Example 1.py 
+Has two windows
+
+The first:
+if you click your left mouse button it will return the XY points of where you click on the image. 
+else if you right click the image it will return the RGB value of the current pixel
+The second:
+Two windows will come up, one with your slide bars for manipulating your image in real time
+The second is four images stacked next to one another showing you each technique 
+taking place each time you move the slide bars
+
+
+I have hundreds of more of these files doing tons of different things.
+Based off of what you guys told me in regards to resizing and adding borders I thought these would be applicable.
+
+
+Thanks,
+
+Jordan Taranto
