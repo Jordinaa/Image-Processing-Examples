@@ -1,5 +1,3 @@
-Here is something I through together for you guys. I hope you enjoy! 
-
 Requires
 OpenCV
 Numpy
@@ -16,9 +14,7 @@ The second is four images stacked next to one another showing you each technique
 taking place each time you move the slide bars
 
 
-I have hundreds of more of these files doing tons of different things.
-Based off of what you guys told me in regards to resizing and adding borders I thought these would be applicable.
-
+I have hundreds of more of these files doing tons of different things, but here is just a few files I through together. 
 
 Thanks,
 
